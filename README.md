@@ -4,7 +4,7 @@
 
 🤝 Currently looking for opportunities and projects to learn more!
 
-⚡I currently know HTML/CSS, Python, JavaScript and GIT.
+⚡I currently know HTML/CSS, Python, JavaScript, GIT, and basics of MySql
 <!--
 **ruffoolo/ruffoolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
