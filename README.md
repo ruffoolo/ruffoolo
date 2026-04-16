@@ -2,7 +2,7 @@
 
 🌱 I'm a Software Enginner freshman looking to dive deeper in this new technological world.
 
-🤝 Currently looking for opportunities and projects to learn more! Possibly a job... who knows!
+🤝 Currently looking for opportunities and projects to learn more!
 
 ⚡I currently know HTML/CSS, Python, JavaScript and GIT.
 <!--
