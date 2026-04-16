@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I'm a Software Enginner freshman looking to dive deeper in this new technological world.
+🌱 I'm a Software Enginner sophomore looking to dive deeper in this new technological world.
 
 🤝 Currently looking for opportunities and projects to learn more!
 
