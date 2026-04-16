@@ -2,9 +2,9 @@
 
 🌱 I'm a Software Enginner freshman looking to dive deeper in this new technological world.
 
-👯 Currently looking for opportunities and projects to learn more! Possibly a job... who knows!
+🤝 Currently looking for opportunities and projects to learn more! Possibly a job... who knows!
 
-⚡I currently know HTML/CSS, and the basics of Python, JavaScript and GIT.
+⚡I currently know HTML/CSS, Python, JavaScript and GIT.
 <!--
 **ruffoolo/ruffoolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
